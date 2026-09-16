@@ -36,7 +36,8 @@
     al_folio_min: "1.0.0"
     al_folio_max: "1.x"
   status: bundled
-  demo_path: /cv/
+  #demo_path: /cv/
+  demo_path: /bio/
   maintainer_contact: https://github.com/al-org-dev
   notes: CV layouts, includes, and rendering behavior.
 
