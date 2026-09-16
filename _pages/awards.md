@@ -2,7 +2,7 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink: /awards/
 subtitle: Ph.D. Candidate at University of Michigan
 
 profile:
