@@ -10,3 +10,6 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: true
 ---
+{% include figure.html path="assets/img/hakone_award_2026.jpg" class="img-fluid rounded z-depth-1" width="150px" %}
+
+{% include figure.html path="assets/img/ksme_award_2022.jpg" class="img-fluid rounded z-depth-1" width="150px" %}
