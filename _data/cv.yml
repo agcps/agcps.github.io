@@ -35,15 +35,30 @@ cv:
         highlights:
           - "Computational plasma science and engineering group (Principal Investigator: Mark. J. Kushner)"
           - "Relevant courses: Introduction to Low Temperature Plasmas,  Plasma Chemistry and Plasma Surface Interactions, Applied Machine Learning for NERS, Monte Carlo Method"
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+  
+
+      - institution: Sogang University
+        location: Seoul, South Korea
+        area: Mechanical Engineering
+        studyType: M.S.
+        start_date: 2021 
+        end_date: 2023
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Won the 4th prize at the 7th KSME-SEMES (Korean Society of Mechanical Engineers-Samsung Electronics Mechatronic Solutions) Open Innovation Challenge"
+          - "Relevant courses: Numerical Heat Transfer, Design of Experiments and Statistical Analyses, Introduction to Nanotechnology and Engineering"
+   
+      - institution: Sogang University
+        location: Seoul, South Korea
+        area: Mechanical Engineering and Physics (Double major)
+        studyType: B.S.
+        start_date: 2017 
+        end_date: 2021
+        highlights:
+          - "Won the 1st prize at Sogang University Student Academic Conference with the simulation of the reactor for magnetron sputtering process"
+          - "Relevant courses: Fluid Mechanics, Continuum Mechanics, Electromagnetism, Heat and Mass Transfer, Finite Element Analysis, Statistical Physics, Quantum Mechanics"
+   
+
+
 
 #    Experience:
 #      - company: Institute for Advanced Study, Princeton University
@@ -55,33 +70,6 @@ cv:
 #        highlights:
 #          - Relativity
 #          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
 
     Volunteer:
       - company: People's Climate March
@@ -135,11 +123,11 @@ cv:
         url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+#    Skills:
+#      - name: Physics
+#        level: Master
+#        icon: fa-solid fa-hashtag
+#        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
       - summary: "Korean, English"
