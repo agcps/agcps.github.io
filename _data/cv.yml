@@ -85,20 +85,19 @@ cv:
 
     Awards:
       - title: Second prize, Best PhD Oral Presentation by Organizing Committees' Choice
-        authors:
-          - "Royal Swedish Academy of Sciences"
         date: 2026
+        image: "hakone_award_2026.jpg"
         awarder: HAKONE XIX International Symposium on High Pressure Low Temperature Plasma Chemistry
  #       url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
         summary: PFOA Degradation in Water:Long-Time-Scale Modeling Investigation
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
+      - title: Fourth prize, Open Innovation Challenge
+        date: 2026
+        image: "ksme_award_2022.jpg"
+        awarder: The 7th KSME-SEMES (Korean Society of Mechanical Engineers-Samsung Electronics Mechatronic Solutions)
+ #       url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: Monte Carlo simulation of the sputtered thin film profiles considering rotations of molecules
+        
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
         authors:
