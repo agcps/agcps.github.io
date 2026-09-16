@@ -35,28 +35,26 @@ cv:
         highlights:
           - "Computational plasma science and engineering group (Principal Investigator: Mark. J. Kushner)"
           - "Relevant courses: Introduction to Low Temperature Plasmas,  Plasma Chemistry and Plasma Surface Interactions, Applied Machine Learning for NERS, Monte Carlo Method"
-  
 
       - institution: Sogang University
         location: Seoul, South Korea
         area: Mechanical Engineering
         studyType: M.S.
-        start_date: 2021 
+        start_date: 2021
         end_date: 2023
         highlights:
           - "Won the 4th prize at the 7th KSME-SEMES (Korean Society of Mechanical Engineers-Samsung Electronics Mechatronic Solutions) Open Innovation Challenge"
           - "Relevant courses: Numerical Heat Transfer, Design of Experiments and Statistical Analyses, Introduction to Nanotechnology and Engineering"
-   
+
       - institution: Sogang University
         location: Seoul, South Korea
         area: Mechanical Engineering and Physics (Double major)
         studyType: B.S.
-        start_date: 2017 
+        start_date: 2017
         end_date: 2021
         highlights:
           - "Won the 1st prize at Sogang University Student Academic Conference with the simulation of the reactor for magnetron sputtering process"
           - "Relevant courses: Fluid Mechanics, Continuum Mechanics, Electromagnetism, Heat and Mass Transfer, Finite Element Analysis, Statistical Physics, Quantum Mechanics"
-   
 
 #    Experience:
 #      - company: Institute for Advanced Study, Princeton University
@@ -64,7 +62,7 @@ cv:
 #        location: Princeton University, NJ
 #        start_date: 1933
 #        end_date: 1955
-#        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+#        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures [...]
 #        highlights:
 #          - Relativity
 #          - Description 2.
@@ -80,14 +78,14 @@ cv:
 #          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
 #          - "Men of the year 2014 by Time magazine"
 
-     Awards:
+    Awards:
       - title: Nobel Prize in Physics
         authors:
           - "Royal Swedish Academy of Sciences"
         date: 1921-11-01
         awarder: Royal Swedish Academy of Sciences
         url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.
+        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit[...]
 
       - title: Max Planck Medal
         authors:
@@ -105,7 +103,7 @@ cv:
         publisher: Plasma Chem Plasma Process 46, 84
         releaseDate: 2026
         url: https://link.springer.com/article/10.1007/s11090-026-10691-3
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental[...]
 
 #    Skills:
 #      - name: Physics
@@ -114,8 +112,6 @@ cv:
 #        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-  #    - name: "Korean, English"
-
       - name: English
         summary: "Fluent"
 
@@ -142,7 +138,7 @@ cv:
 
 #    Projects:
 #      - name: Quantum Computing
-#        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+#        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known[...]
 #        highlights:
 #          - Quantum Teleportation
 #          - Quantum Cryptography
@@ -152,4 +148,4 @@ cv:
 #    References:
 #      - name: Professor John Doe
 #        icon: fa-solid fa-laptop
-#        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+#        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in ri[...]
