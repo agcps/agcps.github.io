@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /awards/
 title: Awards
-description: members of the lab or group
+description: 
 nav: true
 nav_order: 7
 
