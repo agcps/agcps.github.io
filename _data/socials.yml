@@ -5,7 +5,7 @@ cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 #email: you@example.com # your email address
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
-linkedin_username: "jisujeon-plasma"
+linkedin_username: "jisu-jeon-plasma"
 scholar_userid: iF16gqwAAAAJ # your Google Scholar ID
 youtube_id: "myrecordbox"
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
