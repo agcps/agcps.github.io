@@ -3,8 +3,8 @@ cv:
   label: Ph.D. Candidate
   email: jisujeon@umich.edu
   location: Ann Arbor, MI
-  image: "my_pic.jpg"
-  summary: Computer simulation of low temperature plasmas with applications of plasma-liquid interactions and semiconductor etching process
+  image: ""
+#  summary: Computer simulation of low temperature plasmas with applications of plasma-liquid interactions and semiconductor etching process
 
   social_networks:
     - network: X
@@ -22,6 +22,11 @@ cv:
     countryCode: USA
 
   sections:
+    Interests:
+      - name: Computer simulation of low temperature plasmas with applications of plasma-liquid interactions and semiconductor etching process
+        #icon: fa-solid fa-tag
+        #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+  
     Education:
       - institution: University of Michigan
         location: Ann Arbor, USA
