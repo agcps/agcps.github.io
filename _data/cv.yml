@@ -23,7 +23,8 @@ cv:
 
   sections:
     Interests:
-      - summary: "Computer simulation of low temperature plasmas with applications of plasma-liquid interactions and semiconductor etching process"
+      - highlights: 
+         -"Computer simulation of low temperature plasmas with applications of plasma-liquid interactions and semiconductor etching process"
         #icon: fa-solid fa-tag
         #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
   
@@ -99,7 +100,7 @@ cv:
         summary: Monte Carlo simulation of the sputtered thin film profiles considering rotations of molecules
         
     Publications:        
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Controlling Reactivity at the Plasma-Liquid Interface: Applications to Remediation of PFAS in Water
         authors:
           - Albert Einstein
         publisher: Annalen der Physik
