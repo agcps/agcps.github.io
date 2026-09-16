@@ -98,7 +98,9 @@ cv:
         
     Publications:        
       - title: "Controlling Reactivity at the Plasma-Liquid Interface: Applications to Remediation of PFAS in Water"
-        authors: Dias, T.C., Jeon, J., et al.
+        authors: 
+          - Dias, T.C.
+          - Jeon, J.
         publisher: Plasma Chem Plasma Process 46, 84
         releaseDate: 2026
         url: https://link.springer.com/article/10.1007/s11090-026-10691-3
