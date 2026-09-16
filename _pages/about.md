@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate at University of Michigan
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
