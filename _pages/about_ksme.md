@@ -1,0 +1,1 @@
+    #"lthough I was alone around other people who came in teams, I ended up winning the 4th prize among 70+ teams.I suggested interaction potential equations between an atom and various types of molecules to consider rotations of molecules. For this work, I developed a PDE-based model using several simulation  "
