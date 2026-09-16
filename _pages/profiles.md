@@ -11,12 +11,12 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: hakone_award_2026.jpg
-    content: "test1"
+    content: about_hakone.md
     image_circular: false # crops the image to make it circular
 
   - align: right
     image: ksme_award_2022.jpg
-    content: "lthough I was alone around other people who came in teams, I ended up winning the 4th prize among 70+ teams.I suggested interaction potential equations between an atom and various types of molecules to consider rotations of molecules. For this work, I developed a PDE-based model using several simulation  "
+    content: about_ksme.md
     image_circular: false # crops the image to make it circular
 
 ---
