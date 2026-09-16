@@ -21,10 +21,10 @@ cv:
     countryCode: USA
 
   sections:
-    Interests:
-      - keywords: "Computer simulation of low temperature plasmas with applications of plasma-liquid interactions, semiconductor etching process, etc."
-        #icon: fa-solid fa-tag
-        #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+ #   Interests:
+ #     - keywords: "Computer simulation of low temperature plasmas with applications of plasma-liquid interactions, semiconductor etching process, etc."
+ #       #icon: fa-solid fa-tag
+ #       #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
   
     Education:
       - institution: University of Michigan
