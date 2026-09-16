@@ -1,3 +1,3 @@
 Winning the 4th prize as an individual among 70+ teams. 
 
-Rotations of molecules can affect the scattering angle of the sputtered atom. In this work, the interaction potentials considering molecular symmetries are developed and implemented into a PDE-based model to track the trajectory of atoms using Monte Carlo method for the application of the sputtered film deposition. 
+Rotations of molecules can affect scattering angles. In this work, the interaction potentials are developed based on molecular symmetries and implemented into a PDE model to trace the trajectory of colliding atoms using Monte Carlo method with the goal of the sputtered film deposition modeling. 
