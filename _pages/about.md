@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-#at Department of Nuclear Engineering & Radiological Sciences in University of Michigan-Ann Arbor https://ners.engin.umich.edu/
-
 I am studying for low temperature plasma modeling with applications of 
 plasma-liquid interactions and semiconductor etching process 
 in Computational Plasma Science and Engineering Group ([CPSEG](https://cpseg.eecs.umich.edu/)) directed by Mark J. Kushner. 
