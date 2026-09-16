@@ -4,7 +4,7 @@ cv:
   email: jisujeon@umich.edu
   location: Ann Arbor, MI
   image: "my_pic.jpg"
-  summary: Computer simulation of low temperature plasmas
+  summary: Computer simulation of low temperature plasmas with applications of plasma-liquid interactions and semiconductor etching process
 
   social_networks:
     - network: X
