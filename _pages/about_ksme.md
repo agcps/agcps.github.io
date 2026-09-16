@@ -1,1 +1,4 @@
-    #"lthough I was alone around other people who came in teams, I ended up winning the 4th prize among 70+ teams.I suggested interaction potential equations between an atom and various types of molecules to consider rotations of molecules. For this work, I developed a PDE-based model using several simulation  "
+Winning the 4th prize as an individual among 70+ teams. 
+<br>
+<br>
+Rotations of molecules can affect the scattering angle of the sputtered atom. In this work, the interaction potentials considering molecular symmetries are developed and implemented into a PDE-based model to track the trajectory of atoms using Monte Carlo method for the application of the sputtered film deposition. 
