@@ -1,9 +1,9 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
+permalink: /awards/
+title: Awards
 description: members of the lab or group
-nav: false
+nav: true
 nav_order: 7
 
 profiles:
@@ -17,8 +17,8 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
+  - align: middle
+    image: ksme_award_2022.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
