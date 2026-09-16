@@ -46,7 +46,7 @@ cv:
         studyType: M.S.
         start_date: 2021
         end_date: 2023
-        courses: Relevant courses: Numerical Heat Transfer, Design of Experiments and Statistical Analyses, Introduction to Nanotechnology and Engineering
+        courses: "Numerical Heat Transfer, Design of Experiments and Statistical Analyses, Introduction to Nanotechnology and Engineering"
         highlights:
           - "Won the 4th prize at the 7th KSME-SEMES (Korean Society of Mechanical Engineers-Samsung Electronics Mechatronic Solutions) Open Innovation Challenge"
 
@@ -56,7 +56,7 @@ cv:
         studyType: B.S.
         start_date: 2017
         end_date: 2021
-        courses: Relevant courses: Fluid Mechanics, Continuum Mechanics, Electromagnetism, Heat and Mass Transfer, Finite Element Analysis, Statistical Physics, Quantum Mechanics
+        courses: "Fluid Mechanics, Continuum Mechanics, Electromagnetism, Heat and Mass Transfer, Finite Element Analysis, Statistical Physics, Quantum Mechanics"
         highlights:
           - "Won the 1st prize at Sogang University Student Academic Conference with the simulation of the reactor for magnetron sputtering process"
 
