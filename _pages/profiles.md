@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /awards/
+permalink: /awards_1/
 title: 
 description: 
 nav: true
@@ -12,11 +12,6 @@ profiles:
   - align: right
     image: hakone_award_2026.jpg
     content: about_hakone.md
-    image_circular: false # crops the image to make it circular
-
-  - align: right
-    image: ksme_award_2022.jpg
-    content: about_ksme.md
     image_circular: false # crops the image to make it circular
 
 ---
