@@ -20,7 +20,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: right
-    image: molecule_1.jpg
+    image: molecule_1.gif
     content: about_ksme.md
     image_circular: false # crops the image to make it circular
 
