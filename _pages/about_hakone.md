@@ -1,1 +1,2 @@
-test
+Per- and Polyfluoroalkyl Substances (PFAS), a sub-group of fluorinated organic compounds, are characterized by strong carbon-fluorine (C-F) bonds that render them highly persistent in the environment. Atmospheric pressure plasmas (APPs) have shown effective treatment of certain PFAS at the gas-liquid interface. APPs propagate on water as surface ionization waves which chemically
+activate the near-surface regions of the water. PFAS molecules can then be dissociated by the incident flux of electrons, ions, radicals and photons at the plasma-liquid interface and solvated electrons. When normalized by energy deposition onto the water surface, there is favorable agreement with experiments.
