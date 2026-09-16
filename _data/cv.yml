@@ -23,7 +23,7 @@ cv:
 
   sections:
     Interests:
-      - keywords: "Computer simulation of low temperature plasmas with applications of plasma-liquid interactions and semiconductor etching process"
+      - summary: "Computer simulation of low temperature plasmas with applications of plasma-liquid interactions and semiconductor etching process"
         #icon: fa-solid fa-tag
         #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
   
@@ -84,13 +84,13 @@ cv:
  #         - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Second prize, Best PhD Oral Presentation by Organizing Committees' Choice
         authors:
           - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+        date: 2026
+        awarder: HAKONE XIX International Symposium on High Pressure Low Temperature Plasma Chemistry
+ #       url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: PFOA Degradation in Water:Long-Time-Scale Modeling Investigation
 
       - title: Max Planck Medal
         authors:
