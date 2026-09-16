@@ -12,6 +12,20 @@
   maintainer_contact: https://github.com/al-org-dev
   notes: Core runtime primitives and starter contracts.
 
+- name: al_folio_core
+  repo_url: https://github.com/al-org-dev/al-folio-core
+  gem_name: al_folio_core
+  jekyll_plugin_id: al_folio_core
+  owner: al-org-dev
+  license: See plugin repo LICENSE
+  compat:
+    al_folio_min: "1.0.0"
+    al_folio_max: "1.x"
+  status: bundled
+  demo_path: /awards/
+  maintainer_contact: https://github.com/al-org-dev
+  notes: Core runtime primitives and starter contracts.
+
 - name: al_folio_distill
   repo_url: https://github.com/al-org-dev/al-folio-distill
   gem_name: al_folio_distill
