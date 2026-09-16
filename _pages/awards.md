@@ -1,7 +1,7 @@
 
 ---
-layout: about
-title: About
+layout: awards
+title: Awards
 permalink: /awards/
 subtitle: Ph.D. Candidate at University of Michigan
 
