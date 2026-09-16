@@ -16,6 +16,8 @@ profiles:
 
   - align: right
     image: ksme_award_2022.jpg
+    image: molecule_1.gif
+    image: molecule_2.gif
     content: about_ksme.md
     image_circular: false # crops the image to make it circular
 
