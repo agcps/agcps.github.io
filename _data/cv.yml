@@ -15,11 +15,11 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 2234 EECS building, 1301 Beal Ave
+    city: Ann Arbor
+    region: Michigan
+    postalCode: 48109
+    countryCode: USA
 
   sections:
     Education:
