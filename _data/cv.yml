@@ -22,7 +22,7 @@ cv:
 
   sections:
     Interests:
-      - keywords: "Computer simulation of low temperature plasmas with applications of plasma-liquid interactions, semiconductor etching process, etc."
+      - keywords: "Low temperature plasmas, Simulation, Plasma-liquid interactions, Semiconductor"
         #icon: fa-solid fa-tag
         #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
   
