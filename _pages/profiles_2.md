@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /awards_2/
-title: 
+title:  test
 description: 
 nav: true
 nav_order: 7
