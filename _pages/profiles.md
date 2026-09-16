@@ -11,12 +11,12 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: hakone_award_2026.jpg
-    content: about_einstein.md
+    content: test1
     image_circular: false # crops the image to make it circular
 
-  - align: middle
+  - align: right
     image: ksme_award_2022.jpg
-    content: about_einstein.md
+    content: test2
     image_circular: false # crops the image to make it circular
 
 ---
