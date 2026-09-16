@@ -23,28 +23,37 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: University of Michigan
+        location: Ann Arbor, USA
+        #url: https://www.uzh.ch/
+        area: Nuclear Engineering and Radiological Sciences
+        studyType: Ph.D.
+        start_date: 2023
+        end_date: Present
         score: ""
-        courses: "Theory of Relativity"
+        courses: "Introduction to Low Temperature Plasmas,  Plasma Chemistry and Plasma Surface Interactions, Applied Machine Learning for NERS, Monte Carlo Method"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Computational plasma science and engineering group (Principal Investigator: Mark. J. Kushner)"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Sogang University
+        location: Seoul, South Korea
+        area: Mechanical Engineering
+        studyType: M.S.
+        start_date: 2021
+        end_date: 2023
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Won the 4th prize at the 7th KSME-SEMES (Korean Society of Mechanical Engineers-Samsung Electronics Mechatronic Solutions) Open Innovation Challenge"
+          - "Relevant courses: Numerical Heat Transfer, Design of Experiments and Statistical Analyses, Introduction to Nanotechnology and Engineering"
+
+      - institution: Sogang University
+        location: Seoul, South Korea
+        area: Mechanical Engineering and Physics (Double major)
+        studyType: B.S.
+        start_date: 2017
+        end_date: 2021
+        highlights:
+          - "Won the 1st prize at Sogang University Student Academic Conference with the simulation of the reactor for magnetron sputtering process"
+          - "Relevant courses: Fluid Mechanics, Continuum Mechanics, Electromagnetism, Heat and Mass Transfer, Finite Element Analysis, Statistical Physics, Quantum Mechanics"
 
  #   Experience:
  #     - company: Institute for Advanced Study, Princeton University
