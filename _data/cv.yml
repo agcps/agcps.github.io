@@ -86,14 +86,14 @@ cv:
       - title: Second prize, Best PhD Oral Presentation by Organizing Committees' Choice
         date: 2026        
         awarder: HAKONE XIX International Symposium on High Pressure Low Temperature Plasma Chemistry
-        url: https://agcps.github.io/awards/
+        url: https://agcps.github.io/awards_1/
         summary: PFOA Degradation in Water:Long-Time-Scale Modeling Investigation
 
       - title: Fourth prize, Open Innovation Challenge
         date: 2022
         image: "assets/img/ksme_award_2022.jpg"
         awarder: The 7th KSME-SEMES (Korean Society of Mechanical Engineers-Samsung Electronics Mechatronic Solutions)
-        url: https://agcps.github.io/awards/
+        url: https://agcps.github.io/awards_2/
         summary: Monte Carlo simulation of the sputtered thin film profiles considering rotations of molecules
         
     Publications:        
