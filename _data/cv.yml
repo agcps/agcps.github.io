@@ -58,8 +58,6 @@ cv:
           - "Relevant courses: Fluid Mechanics, Continuum Mechanics, Electromagnetism, Heat and Mass Transfer, Finite Element Analysis, Statistical Physics, Quantum Mechanics"
    
 
-
-
 #    Experience:
 #      - company: Institute for Advanced Study, Princeton University
 #        position: Professor of Theoretical Physics
@@ -124,7 +122,7 @@ cv:
 #        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - keywords: "Korean, English"
+      - name: "Korean, English"
 
       #- name: English
       #  summary: "Fluent"
