@@ -30,6 +30,6 @@ latest_posts:
 
 I am studying for low temperature plasma modeling with applications of plasma-liquid interactions and semiconductor etching process in Computational Plasma Science and Engineering Group ([CPSEG](https://cpseg.eecs.umich.edu/)) directed by Mark J. Kushner.
 
-...and I love ([music] (https://www.youtube.com/@myrecordbox)), arts, nature, and running!
+...and I love ([music](https://www.youtube.com/@myrecordbox)), arts, nature, and running!
 
 
