@@ -28,5 +28,5 @@ latest_posts:
 ---
 
 
-Computational Plasma Science and Engineering Group ([CPSEG](https://cpseg.eecs.umich.edu/) )
+Computational Plasma Science and Engineering Group ([CPSEG](https://cpseg.eecs.umich.edu/))
 
