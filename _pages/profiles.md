@@ -14,6 +14,12 @@ profiles:
     content: about_hakone.md
     image_circular: false # crops the image to make it circular
     
- # - align: center
- #   image_circular: false # crops the image to make it circular
+  - align: center
+    image_circular: false # crops the image to make it circular
 ---
+
+<div class="row">
+    <div class="col-sm-6">
+        {% include figure.liquid path="assets/img/SIW_propagation.gif" title="First Image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
