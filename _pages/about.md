@@ -26,8 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Welcome! I am studying for low temperature plasma modeling in [Computational Plasma Science and Engineering Group](https://cpseg.eecs.umich.edu/) directed by Mark J. Kushner. 
-Applications are currently focused on plasma-liquid interactions, plasma etching <br> and deposition for microelectronics, etc.
+Welcome! I am studying for low temperature plasma modeling in [Computational Plasma Science and Engineering Group](https://cpseg.eecs.umich.edu/) directed by Mark J. Kushner. <br> Applications are currently focused on plasma-liquid interactions, plasma etching <br> and deposition for microelectronics, etc.
 
 My affiliated department is [Nuclear Engineering & Radiological Sciences](https://ners.engin.umich.edu/) at <br> [University of Michigan](https://umich.edu/) and I double majored in Mechanical Engineering and Physics at [Sogang University](https://www.sogang.ac.kr/en/home).
 
