@@ -18,8 +18,8 @@ profiles:
     image_circular: false # crops the image to make it circular
 ---
 
-<div class="row justify-content-center">
-  <div class="col-sm-8 text-center">
-    <img src="assets/img/SIW_propagation.gif" alt="Centered Fixed-Size Image">
+<div class="row">
+  <div class="col-sm-12">
+    <img src=assets/img/SIW_propagation.gif" class="img-fluid mx-auto d-block" alt="Centered Responsive Image">
   </div>
 </div>
