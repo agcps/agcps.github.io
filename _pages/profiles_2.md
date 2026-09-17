@@ -15,13 +15,11 @@ profiles:
     content: about_ksme.md
     image_circular: false # crops the image to make it circular
 
+  - align: center
+    image: molecule_1.gif
+    content: about_ksme.md
+    image_circular: false # crops the image to make it circular
+
+
 ---
 
-<div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/molecule_1.gif" title="Image 1" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/molecule_2.gif" title="Image 2" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
