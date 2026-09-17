@@ -31,7 +31,7 @@ Welcome! I am studying for low temperature plasma modeling in [Computational Pla
 
 The current emphasis is development of 0- and 2-dimensional computational models <br> for plasma-liquid interactions, plasma etching and deposition for microelectronics, etc.
 
-My affiliated department is [Nuclear Engineering & Radiological Sciences](https://ners.engin.umich.edu/) <br> at [University of Michigan](https://umich.edu/) and I double majored in Mechanical Engineering and Physics <br> at [Sogang University](https://www.sogang.ac.kr/en/home).
+My affiliated department is [Nuclear Engineering & Radiological Sciences](https://ners.engin.umich.edu/) <br> at [University of Michigan](https://umich.edu/) and I double majored in Mechanical Engineering and Physics <br> at [Sogang University](https://www.sogang.ac.kr/en/home) during my undergrad.
 
 ...and I love [music](https://www.youtube.com/@myrecordbox), arts, nature, and running!
 
