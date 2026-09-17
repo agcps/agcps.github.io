@@ -19,7 +19,7 @@ profiles:
 ---
 
 <div class="row">
-  <div class="col-sm-12">
-    <img src=assets/img/SIW_propagation.gif" class="img-fluid mx-auto d-block" alt="Centered Responsive Image">
-  </div>
+    <div class="col-sm-6-centered">
+        {% include figure.liquid path="assets/img/SIW_propagation.gif" title="First Image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
