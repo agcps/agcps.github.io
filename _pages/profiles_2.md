@@ -23,3 +23,11 @@ profiles:
 
 ---
 
+<div class="row">
+    <div class="col-sm-6">
+        {% include figure.liquid path="assets/img/molecule_1.gif" title="First Image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6">
+        {% include figure.liquid path="assets/img/molecule_2.gif" title="Second Image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
