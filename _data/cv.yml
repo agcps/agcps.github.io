@@ -112,11 +112,11 @@ cv:
 #        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: Korean
-        summary: "Fluent"
+   #   - name: Korean
+       - summary: "Korean, English"
 
-      - name: English
-        summary: "Fluent"
+  #    - name: English
+  #      summary: "Fluent"
 
 #    Interests:
 #      - name: Physics
