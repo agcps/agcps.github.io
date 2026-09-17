@@ -14,6 +14,6 @@ profiles:
     content: about_hakone.md
     image_circular: false # crops the image to make it circular
     
-  - align: center
-    image_circular: false # crops the image to make it circular
+ # - align: center
+ #   image_circular: false # crops the image to make it circular
 ---
