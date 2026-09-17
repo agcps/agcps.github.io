@@ -27,9 +27,29 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <br>
-I am studying for low temperature plasma modeling with applications of plasma-liquid interactions and semiconductor etching process
-in Computational Plasma Science and Engineering Group ([CPSEG](https://cpseg.eecs.umich.edu/)) directed by Mark J. Kushner. 
+Welcome! I am studying for low temperature plasma modeling with applications of plasma-liquid interactions and semiconductor etching process
+in Computational Plasma Science and Engineering Group ([CPSEG](https://cpseg.eecs.umich.edu/)) directed by Mark J. Kushner.
 
 ...and I love [music](https://www.youtube.com/@myrecordbox), arts, nature, and running!
+
+<form action="https://formspree.io" method="POST" class="contact-form">
+  <div class="form-group">
+    <label for="name">Name</label>
+    <input type="text" name="name" id="name" class="form-control" required>
+  </div>
+  
+  <div class="form-group">
+    <label for="email">Email Address</label>
+    <input type="email" name="_replyto" id="email" class="form-control" required>
+  </div>
+  
+  <div class="form-group">
+    <label for="message">Message</label>
+    <textarea name="message" id="message" rows="5" class="form-control" required></textarea>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Send Message</button>
+</form>
+
 
 
