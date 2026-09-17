@@ -3,8 +3,8 @@ layout: profiles
 permalink: /awards_2/
 #title:
 description: 
-nav: true
-nav_order: 1
+nav: false
+nav_order: 7
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
