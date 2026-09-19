@@ -22,7 +22,7 @@ cv:
 
   sections:
     Interests:
-      - keywords: "Low temperature plasmas, Computer simulation, Plasma driven solution electrochemistry, Plasma etching and deposition for microelectronics"
+      - keywords: "Computer simulation of low temperature plasmas, Plasma-driven solution electrochemistry, Plasma etching and deposition for microelectronics"
         #icon: fa-solid fa-tag
         #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
   
