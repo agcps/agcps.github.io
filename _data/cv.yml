@@ -47,7 +47,7 @@ cv:
         end_date: 2023
         #courses: 
         highlights:
-          - "Won the 4th prize at the 7th KSME-SEMES (Korean Society of Mechanical Engineers-Samsung Electronics Mechatronic Solutions) Open Innovation Challenge"
+          - "Won the 4th prize at the 7th KSME-SEMES (Korean Society of Mechanical Engineers-Samsung Electronics Mechatronic Solutions) Open Innovation Challenge with a presentation on Monte Carlo simulation of the sputtered thin film profiles considering rotations of molecules"
           
       - institution: Sogang University
         location: Seoul, South Korea
@@ -57,7 +57,7 @@ cv:
         end_date: 2021
         #courses: 
         highlights:
-          - "Won the 1st prize at Sogang University Student Academic Conference with the simulation of the reactor for magnetron sputtering process"
+          - "Won the 1st prize at Sogang University Student Academic Conference with the simulation of a magnetron sputtering reactor"
 
  #   Experience:
  #     - company: Institute for Advanced Study, Princeton University
