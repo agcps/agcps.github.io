@@ -38,6 +38,7 @@ cv:
         #courses: 
         highlights:
           - "Computational plasma science and engineering group <br> (Principal Investigator: Mark. J. Kushner)"
+          - "Relevant courses: Introduction to Low Temperature Plasmas, Plasma Chemistry and Plasma Surface Interactions, Applied Machine Learning (NERS), Machine Learning (EECS, audit)"
 
       - institution: Sogang University
         location: Seoul, South Korea
@@ -48,6 +49,7 @@ cv:
         #courses: 
         highlights:
           - "Won the 4th prize at the 7th KSME-SEMES (Korean Society of Mechanical Engineers-Samsung Electronics Mechatronic Solutions) Open Innovation Challenge with a presentation on Monte Carlo simulation of the sputtered thin film profiles considering rotations of molecules"
+          - "Relevant courses: Introduction to Nanotechnology and Engineering, Numerical Heat Transfer, Design of Experiments and Statistical Analyses, Classical Physics, Quantum Mechanics"
           
       - institution: Sogang University
         location: Seoul, South Korea
@@ -58,6 +60,7 @@ cv:
         #courses: 
         highlights:
           - "Won the 1st prize at Sogang University Student Academic Conference with the simulation of a magnetron sputtering reactor"
+          - "Relevant courses: Fluid Mechanics, Continuum Mechanics, Electromagnetism, Heat and Mass Transfer, Finite Element Analysis, Statistical Physics, Modern Optics, Physics Laboratory"
 
  #   Experience:
  #     - company: Institute for Advanced Study, Princeton University
