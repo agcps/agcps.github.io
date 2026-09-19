@@ -48,7 +48,7 @@ cv:
         end_date: 2023
         #courses: 
         highlights:
-          - "Won the 4th prize at the 7th KSME-SEMES (Korean Society of Mechanical Engineers-Samsung Electronics Mechatronic Solutions) Open Innovation Challenge with a presentation on Monte Carlo simulation of the sputtered thin film profiles considering rotations of molecules"
+          - "Won the 4th prize at the 7th KSME-SEMES (Korean Society of Mechanical Engineers-Samsung Electronics Mechatronic Solutions) Open Innovation Challenge with a presentation on Monte Carlo collision model considering rotations of molecules to simulate sputtered film depositions"
           - "Relevant courses: Introduction to Nanotechnology and Engineering, Numerical Heat Transfer, Design of Experiments and Statistical Analyses, Classical Physics, Quantum Mechanics"
           
       - institution: Sogang University
