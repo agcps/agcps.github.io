@@ -38,7 +38,7 @@ cv:
         #courses: 
         highlights:
           - "Computational plasma science and engineering group <br> (Principal Investigator: Mark. J. Kushner)"
-          - "Relevant courses: Introduction to Low Temperature Plasmas, Plasma Chemistry and Plasma Surface Interactions, Applied Machine Learning (NERS), Machine Learning (EECS, audit)"
+          - "Relevant courses: Introduction to Low Temperature Plasmas, Plasma Chemistry and Plasma Surface Interactions, Monte Carlo Method, Applied Machine Learning (NERS), Machine Learning (EECS, audit)"
 
       - institution: Sogang University
         location: Seoul, South Korea
