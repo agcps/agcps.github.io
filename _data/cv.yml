@@ -22,7 +22,7 @@ cv:
 
   sections:
     Interests:
-      - keywords: "Computer simulation of low temperature plasmas, Plasma-driven solution electrochemistry, Plasma etching and deposition for microelectronics"
+      - keywords: "Low temperature plasma modeling, Plasma-driven solution electrochemistry, Plasma etching and deposition for microelectronics"
         #icon: fa-solid fa-tag
         #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
   
@@ -35,7 +35,7 @@ cv:
         start_date: 2023
         end_date: Present
         score: ""
-        courses: "Introduction to Low Temperature Plasmas,  Plasma Chemistry and Plasma Surface Interactions, Applied Machine Learning, Monte Carlo Method"
+        #courses: 
         highlights:
           - "Computational plasma science and engineering group <br> (Principal Investigator: Mark. J. Kushner)"
 
@@ -45,17 +45,17 @@ cv:
         studyType: M.S.
         start_date: 2021
         end_date: 2023
-        courses: "Numerical Heat Transfer, Design of Experiments and Statistical Analyses, Introduction to Nanotechnology and Engineering"
+        #courses: 
         highlights:
           - "Won the 4th prize at the 7th KSME-SEMES (Korean Society of Mechanical Engineers-Samsung Electronics Mechatronic Solutions) Open Innovation Challenge"
-
+          
       - institution: Sogang University
         location: Seoul, South Korea
         area: Mechanical Engineering and Physics (Double major)
         studyType: B.S.
         start_date: 2017
         end_date: 2021
-        courses: "Fluid Mechanics, Continuum Mechanics, Electromagnetism, Heat and Mass Transfer, Finite Element Analysis, Statistical Physics, Quantum Mechanics"
+        #courses: 
         highlights:
           - "Won the 1st prize at Sogang University Student Academic Conference with the simulation of the reactor for magnetron sputtering process"
 
