@@ -38,9 +38,9 @@ cv:
         #courses: 
         highlights:
           - "Computational plasma science and engineering group <br> (Principal Investigator: Mark. J. Kushner)"
-          - "Developed a 0D liquid chemistry framework coupled to 2D pulsed-plasma reactive gas fluxes through interfacial reactions and gas species transport into the bulk liquid"
-          - "Formulated plasma chemical kinetic mechanisms for applications in PFAS remediation and chaingrowth polymerization to provide predictive modelling and optimize experimental configurations"
-          - "Relevant courses: Introduction to Low Temperature Plasmas, Plasma Chemistry and Plasma Surface Interactions, Monte Carlo Method, Applied Machine Learning (NERS), Machine Learning (EECS, audit)"
+          - "Developed a 0D liquid chemistry framework initiated by 2D pulsed-plasma reactive gas fluxes, incorporating gas-liquid reaction mechanism at the interface and dissolutions into the bulk liquid"
+          - "Formulated plasma chemistries for the investigation of PFAS remediation and aniline polymerization processes and the optimization of plasma discharge systems and reactor designs"
+          - "Relevant courses: Introduction to Low Temperature Plasmas, Plasma Chemistry and Plasma Surface Interactions, Monte Carlo Method, Applied Machine Learning (NERS)"
 
       - institution: Sogang University
         location: Seoul, South Korea
