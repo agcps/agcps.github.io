@@ -33,6 +33,6 @@ My current research interests are low temperature plasma modeling, plasma chemis
 
 My affiliated department is [Nuclear Engineering & Radiological Sciences](https://ners.engin.umich.edu/) at [University of Michigan](https://umich.edu/) and I have a double major in Mechanical Engineering and Physics from [Sogang University](https://www.sogang.ac.kr/en/home).
 
-...and I love [music](https://www.youtube.com/@myrecordbox), nature, and running!
+...and I love [music](https://www.youtube.com/@myrecordbox), cycling, and running!
 
 
